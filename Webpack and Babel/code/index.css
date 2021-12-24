@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(216, 224, 224);
+}
+.image {
+    margin-right: 30%;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.box {
+    border: 2px solid rgb(50, 133, 50);
+    height: 80px;
+    width: 80%;
+    margin: 1% 0px 35px 10% ;   
+}
+
+.header {
+    display: flex;
+    background-color: blanchedalmond;
+}
+.boxBottom {
+    border: 2px solid rgb(50, 133, 50);
+    height: 520px;
+    width: 80%;
+    margin: 1% 0px 35px 10% ;
+    
+}
+
+.left {
+    border: 5px solid tomato;
+    height: 450px;
+    width: 35%;
+    margin: 2%;
+}
+
+.right {
+    border: 5px solid tomato;
+    height: 450px;
+    width: 53%;
+    margin: 2%;
+}
+.flex {
+    display: flex;
+}
+.inp {
+    width: 80%;
+    padding-bottom: 80%;
+    margin: 4% 0px 2% 9%;
+}
+.btn {
+    margin-left: 40%;
+    font-size: 22px;
+}
+
+.list {
+    color: rgb(206, 108, 16);
+    font-size: 20px;
+}
+.display {
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}
