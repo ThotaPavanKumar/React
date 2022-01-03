@@ -1,0 +1,11 @@
+.lists {
+    background-color: #FFD39A;
+    align-items: center;
+    height: 290px;
+    width: 35%;
+    margin-left: 60%;
+    margin-top : -310px
+}
+.sort {
+    margin-left: 250px;
+}

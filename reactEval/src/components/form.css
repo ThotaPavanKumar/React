@@ -1,0 +1,11 @@
+.formData {
+    background-color: #CDDEFF;
+    align-items: center;
+    height: 290px;
+    width: 35%;
+    margin-left: 5%;
+}
+.recipeHead {
+    text-align: left;
+    margin-left: 5%;
+}
